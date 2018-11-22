@@ -1,5 +1,7 @@
-Purpose: Program goes through files (show inventory output) and obtains serial number
+# Purpose: 
+Program goes through files (show inventory output) and obtains serial number
 The script would open a file (below example) and parse the serial number for the switch. It will search PID "WS-C" and the SN.
+
 ===============
 COMMAND: show run | in hostname
 ===============
